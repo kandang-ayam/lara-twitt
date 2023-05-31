@@ -1,0 +1,72 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => dukung
+            [1] => tenggelam
+            [2] => kapal
+            [3] => van
+            [4] => der
+            [5] => wijck
+            [6] => movie
+            [7] => of
+            [8] => the
+            [9] => year
+            [10] => klik
+            [11] => link
+            [12] => tweet
+            [13] => aja
+            [14] => langsung
+        )
+
+    [1] => Array
+        (
+            [0] => mang
+            [1] => ded
+            [2] => loohh
+            [3] => ngamook
+        )
+
+    [2] => Array
+        (
+            [0] => spurs
+            [1] => vs
+            [2] => united
+            [3] => min
+        )
+
+    [3] => Array
+        (
+            [0] => vincent
+            [1] => udah
+            [2] => kesel
+            [3] => suruh
+            [4] => main
+            [5] => aja
+        )
+
+    [4] => Array
+        (
+            [0] => niat
+            [1] => nonton
+            [2] => eh
+            [3] => tidur
+        )
+
+    [5] => Array
+        (
+            [0] => bener
+            [1] => ya
+            [2] => patricia
+            [3] => gouw
+            [4] => totalitas
+            [5] => banget
+            [6] => judgesmentor
+            [7] => sampe
+            [8] => cuan
+            [9] => ilene
+            [10] => gea
+            [11] => shay
+        )
+
+)
